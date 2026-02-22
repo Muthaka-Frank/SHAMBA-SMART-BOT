@@ -1,0 +1,54 @@
+# ─── Python ───────────────────────────────────────────────────────────────────
+__pycache__/
+*.py[cod]
+*.pyo
+*.egg-info/
+dist/
+build/
+*.egg
+
+# ─── Virtual Environments ─────────────────────────────────────────────────────
+ukulima-env/
+venv/
+.venv/
+env/
+
+# ─── Environment Variables (secrets!) ─────────────────────────────────────────
+.env
+*.env
+!.env.example
+
+# ─── IDE / Editor ─────────────────────────────────────────────────────────────
+.vscode/
+.idea/
+*.swp
+*.swo
+*~
+
+# ─── OS Files ─────────────────────────────────────────────────────────────────
+.DS_Store
+Thumbs.db
+desktop.ini
+
+# ─── Audio temp files ─────────────────────────────────────────────────────────
+tmp_audio/
+*.ogg
+*.wav
+*.mp3
+
+# ─── Vector Store (generated, can be re-indexed) ──────────────────────────────
+DATABASE/vector_store/
+DATABASE/chroma_store/
+
+# ─── Model cache ──────────────────────────────────────────────────────────────
+*.pt
+*.bin
+*.safetensors
+
+# ─── Logs ─────────────────────────────────────────────────────────────────────
+*.log
+
+# ─── Testing ──────────────────────────────────────────────────────────────────
+.pytest_cache/
+htmlcov/
+.coverage

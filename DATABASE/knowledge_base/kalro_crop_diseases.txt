@@ -1,0 +1,193 @@
+KALRO CROP DISEASE AND PEST MANAGEMENT GUIDE — KENYA
+=====================================================
+Kenya Agricultural and Livestock Research Organization (KALRO)
+Adapted Field Guide for Smallholder Farmers
+
+---
+
+MAIZE (Mahindi / Ndũma wa ngano)
+================================
+
+1. MAIZE LETHAL NECROSIS (MLN)
+   Symptoms: Yellowing of leaves starting from the margins, plants dying prematurely, 
+   cobs with few or no grains. A combination of Maize Chlorotic Mottle Virus (MCMV) 
+   and other cereal viruses.
+   Cause: Spread by thrips, aphids, and beetles.
+   Treatment:
+   - Use MLN-resistant seed varieties (e.g., DH02, SEEDCO SC403).
+   - Uproot and burn infected plants immediately. Do not compost.
+   - Control insect vectors with Cypermethrin or Dimethoate 40% EC.
+   - Practice crop rotation: plant beans or sunflower in the next season.
+   - Plant early in the season to avoid peak insect populations.
+   Prevention: Use certified seeds, maintain field hygiene.
+
+2. GREY LEAF SPOT (Madoadoa ya majani ya kijivu)
+   Symptoms: Rectangular grey/brown lesions on leaves, running parallel to leaf veins. 
+   Severe infection causes leaves to die from the bottom up.
+   Cause: Fungus (Cercospora zeae-maydis). Thrives in humid, cool conditions.
+   Treatment:
+   - Apply fungicide: Mancozeb 80WP at 2g/litre of water, spray every 14 days.
+   - Plant resistant hybrid varieties.
+   - Ensure proper spacing (75cm between rows, 25cm between plants) for air circulation.
+   - Remove and bury crop debris after harvest.
+   Prevention: Rotate crops. Avoid overhead irrigation.
+
+3. NORTHERN LEAF BLIGHT (Blight ya jani la kaskazini)
+   Symptoms: Long, cigar-shaped grey-green lesions (2.5–15cm) on leaves. Lesions turn 
+   tan/brown with dark borders.
+   Cause: Fungus (Exserohilum turcicum). Favoured by cool, humid weather.
+   Treatment:
+   - Fungicide: Propiconazole 25EC at 0.5ml/litre water.
+   - Plant resistant varieties.
+   Prevention: Crop rotation with non-grass crops (beans, vegetables).
+
+4. FALL ARMYWORM (Vamizi / Kamande)
+   Symptoms: Ragged holes in leaves, frass (caterpillar excrement) visible in leaf whorls, 
+   plants look as if attacked by a caterpillar that eats from inside the funnel.
+   Cause: Spodoptera frugiperda moth larvae, highly invasive pest.
+   Treatment:
+   - EARLY STAGE: Mix 1 litre of clean sand with 3ml of Dimethoate and drop into plant funnel.
+   - Apply Emamectin Benzoate 1.9EC at 0.4ml/litre of water.
+   - Biological control: Bacillus thuringiensis (Bt) spray is safe and effective.
+   - Pheromone traps for adult moths.
+   - Hand-pick egg masses early morning.
+   Prevention: Scout fields twice weekly, especially during vegetative stage.
+
+5. MAIZE STREAK VIRUS
+   Symptoms: Narrow, broken yellow streaks running along the leaf veins, giving a 
+   striped appearance. Plants stunted, reduced grain yield.
+   Cause: Transmitted by leafhopper (Cicadulina spp.).
+   Treatment:
+   - Use resistant varieties (e.g., H614D, KARI Mtama 1).
+   - Control leafhoppers with Imidacloprid insecticide.
+   - Remove and destroy infected plants.
+   Prevention: Early planting, use certified seeds.
+
+---
+
+BEANS (Maharagwe / Njũgũ)
+==========================
+
+1. BEAN RUST (Kutu ya maharagwe)
+   Symptoms: Reddish-brown powdery pustules on lower leaf surface, yellow spots on 
+   upper surface. Severe infection causes leaf drop.
+   Cause: Fungus (Uromyces appendiculatus).
+   Treatment:
+   - Spray Mancozeb 80WP at 2.5g/litre every 10–14 days.
+   - Remove infected leaves and bury them deeply.
+   - Use rust-resistant varieties (e.g., Lyamungu 85).
+   Prevention: Avoid overhead irrigation. Plant in well-drained soil.
+
+2. BEAN ANTHRACNOSE
+   Symptoms: Sunken, dark brown to black lesions on pods, stems, and leaves. 
+   Pink/salmon coloured spore masses in moist weather.
+   Cause: Colletotrichum lindemuthianum.
+   Treatment:
+   - Use certified, disease-free seeds only.
+   - Spray Copper Oxychloride 50WP at 2.5g/litre.
+   Prevention: 3-year crop rotation. Do not work in wet field.
+
+3. ROOT ROT (Kuoza kwa mizizi)
+   Symptoms: Plants wilt suddenly despite adequate soil moisture. Stems near soil 
+   level show brown/reddish discolouration.
+   Cause: Fusarium or Pythium soil fungi. Associated with waterlogged soils.
+   Treatment:
+   - Improve drainage immediately (create furrows/ridges).
+   - Use Metalaxyl seed dressing before planting.
+   - Remove and burn infected plants.
+   Prevention: Avoid planting in low-lying, poorly drained areas.
+
+---
+
+TOMATOES (Nyanya / Matimaiti)
+==============================
+
+1. EARLY BLIGHT (Doa la mapema)
+   Symptoms: Dark spots with concentric rings (bull's-eye pattern) on older leaves. 
+   Leaves yellow and drop. Brown lesions on stems and fruit.
+   Cause: Alternaria solani. Favoured by warm, humid weather.
+   Treatment:
+   - Spray Chlorothalonil 75WP at 2g/litre every 7–10 days.
+   - Remove and bury infected leaves.
+   - Stake plants for air circulation.
+   Prevention: Mulch to prevent soil splash. Use resistant varieties.
+
+2. LATE BLIGHT (Ugonjwa wa mirungi — Phytophthora)
+   Symptoms: Water-soaked, dark green to brown lesions on leaves; white mould on 
+   underside in humid conditions. Fruits show brown, greasy rot.
+   Cause: Phytophthora infestans (the same organism that caused the Irish Potato Famine).
+   Treatment:
+   - URGENT: Spray Metalaxyl + Mancozeb (Ridomil Gold) at 2g/litre every 7 days.
+   - Remove infected plant parts immediately.
+   Prevention: Avoid overhead irrigation. Resistance varieties (e.g., Kilele F1).
+
+3. TOMATO YELLOW LEAF CURL VIRUS (TYLCV)
+   Symptoms: Upward curling and yellowing of young leaves, stunted growth, very 
+   little fruit set. Flowers drop before fruit forms.
+   Cause: Begomovirus, spread by whitefly (Bemisia tabaci).
+   Treatment:
+   - No direct cure. Focus on whitefly control.
+   - Apply Imidacloprid 200SL at 0.5ml/litre on affected plants.
+   - Remove and burn heavily infected plants.
+   - Use reflective silver mulch to repel whiteflies.
+   Prevention: Yellow sticky traps. Screen nursery seedlings.
+
+---
+
+CASTOR (Mbarika / Mwariki)
+===========================
+
+1. CASTOR WILT AND ROOT ROT
+   Symptoms: Leaves dry out and curl upwards, starting from the lower leaves. 
+   Plant wilts suddenly as if underwatered even when soil is moist. Stem base turns brown.
+   Cause: Fusarium oxysporum (soil fungus). Common in poorly drained or waterlogged soils.
+   Treatment:
+   - Immediately improve drainage around the affected plants.
+   - Apply Trichoderma-based bio-fungicide around the root zone.
+   - For severe cases: Drench soil with Carbendazim 50WP at 2g/litre.
+   - Remove and destroy affected plants before spores spread.
+   Prevention: Avoid waterlogging. Plant on ridges in wet areas. Rotate with grain crops.
+
+2. GREY MOULD (Botrytis) ON CASTOR
+   Symptoms: Fluffy grey mould on flowers, seed capsules, and young leaves. 
+   Especially visible after rains.
+   Cause: Botrytis cinerea. Thrives in cool, humid conditions.
+   Treatment:
+   - Apply Iprodione 50WP fungicide.
+   - Prune for airflow. Remove infected capsules.
+   Prevention: Proper spacing (3m x 3m). Avoid dense planting.
+
+---
+
+POTATOES (Viazi / Mũithe)
+==========================
+
+1. LATE BLIGHT (Ugonjwa wa mirungi)
+   Symptoms: Brown, water-soaked patches on leaves and stems, white spore growth 
+   visible on leaf underside in humid weather. Tubers show reddish-brown rot inside.
+   Cause: Phytophthora infestans.
+   Treatment:
+   - Spray Cymoxanil + Mancozeb every 5–7 days during rainy season.
+   - Hill up (earth around stems) to protect tubers.
+   - Harvest promptly when leaves start dying.
+   Prevention: Use certified disease-free seed tubers. Rotate with non-solanaceous crops.
+
+2. POTATO BACTERIAL WILT (Ugonjwa wa kunyauka)
+   Symptoms: Plants wilt suddenly; cut stems show browning of the vascular ring 
+   and ooze milky white liquid when you submerge the cut end in water.
+   Cause: Ralstonia solanacearum bacteria. Lives in soil for years.
+   Treatment:
+   - No chemical cure. Remove and burn ALL infected plants.
+   - Do NOT replant potatoes or tomatoes in the same field for 3+ years.
+   Prevention: Use certified seed. Avoid introducing soil from infected plots.
+
+---
+
+SOIL HEALTH NOTES
+=================
+- Optimal soil pH for most vegetables: 6.0–6.8
+- If soil is too acidic (pH below 5.5): Apply agricultural lime at 2 tonnes/hectare
+- Apply well-composted manure to improve water retention and beneficial soil microbes
+- Use CAN (Calcium Ammonium Nitrate) as top-dressing for nitrogen boost at flowering
+- DAP (Di-Ammonium Phosphate) at planting for root development
+- Foliar spray with micronutrients (Zinc, Boron) if leaves show yellowing despite good fertilizer use

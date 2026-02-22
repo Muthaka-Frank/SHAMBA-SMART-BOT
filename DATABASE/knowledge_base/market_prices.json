@@ -1,0 +1,103 @@
+{
+  "last_updated": "2026-02-20",
+  "source": "Seed data — Marigiti & Wakulima Market Wholesale Prices (Nairobi)",
+  "note": "Prices in Kenyan Shillings (KSh) per kg unless otherwise stated",
+  "commodities": {
+    "Mahindi": {
+      "aliases": ["maize", "ndũma", "corn", "mahindi"],
+      "unit": "kg",
+      "markets": {
+        "Marigiti": {"price_ksh": 42, "trend": "stable"},
+        "Wakulima": {"price_ksh": 40, "trend": "down"}
+      }
+    },
+    "Maharagwe": {
+      "aliases": ["beans", "njũgũ", "maharage", "maharagwe"],
+      "unit": "kg",
+      "markets": {
+        "Marigiti": {"price_ksh": 135, "trend": "up"},
+        "Wakulima": {"price_ksh": 128, "trend": "stable"}
+      }
+    },
+    "Nyanya": {
+      "aliases": ["tomatoes", "matimaiti", "nyanya"],
+      "unit": "kg",
+      "markets": {
+        "Marigiti": {"price_ksh": 65, "trend": "down"},
+        "Wakulima": {"price_ksh": 60, "trend": "down"}
+      }
+    },
+    "Viazi": {
+      "aliases": ["potatoes", "mũithe", "viazi", "Irish potatoes"],
+      "unit": "kg",
+      "markets": {
+        "Marigiti": {"price_ksh": 38, "trend": "stable"},
+        "Wakulima": {"price_ksh": 35, "trend": "stable"}
+      }
+    },
+    "Kabichi": {
+      "aliases": ["cabbage", "kĩbeji", "kabichi"],
+      "unit": "kg",
+      "markets": {
+        "Marigiti": {"price_ksh": 28, "trend": "stable"},
+        "Wakulima": {"price_ksh": 25, "trend": "stable"}
+      }
+    },
+    "Spinachi": {
+      "aliases": ["spinach", "mchicha", "sukoma wiki", "kale", "sukuma"],
+      "unit": "bunch",
+      "markets": {
+        "Marigiti": {"price_ksh": 10, "trend": "stable"},
+        "Wakulima": {"price_ksh": 8, "trend": "stable"}
+      }
+    },
+    "Vitunguu": {
+      "aliases": ["onions", "kitunguu", "vitunguu", "maji"],
+      "unit": "kg",
+      "markets": {
+        "Marigiti": {"price_ksh": 85, "trend": "up"},
+        "Wakulima": {"price_ksh": 80, "trend": "stable"}
+      }
+    },
+    "Karoti": {
+      "aliases": ["carrots", "karoti"],
+      "unit": "kg",
+      "markets": {
+        "Marigiti": {"price_ksh": 55, "trend": "stable"},
+        "Wakulima": {"price_ksh": 50, "trend": "stable"}
+      }
+    },
+    "Maharage ya soya": {
+      "aliases": ["soybeans", "soya", "soya beans"],
+      "unit": "kg",
+      "markets": {
+        "Marigiti": {"price_ksh": 110, "trend": "up"},
+        "Wakulima": {"price_ksh": 105, "trend": "up"}
+      }
+    },
+    "Ufuta": {
+      "aliases": ["sunflower", "alizeti", "sunflower seeds", "ufuta"],
+      "unit": "kg",
+      "markets": {
+        "Marigiti": {"price_ksh": 95, "trend": "stable"},
+        "Wakulima": {"price_ksh": 90, "trend": "stable"}
+      }
+    },
+    "Ngano": {
+      "aliases": ["wheat", "ngano"],
+      "unit": "kg",
+      "markets": {
+        "Marigiti": {"price_ksh": 58, "trend": "stable"},
+        "Wakulima": {"price_ksh": 55, "trend": "stable"}
+      }
+    },
+    "Miwa": {
+      "aliases": ["sugarcane", "miwa", "muwa"],
+      "unit": "tonne",
+      "markets": {
+        "Marigiti": {"price_ksh": 4200, "trend": "stable"},
+        "Wakulima": {"price_ksh": 4000, "trend": "stable"}
+      }
+    }
+  }
+}

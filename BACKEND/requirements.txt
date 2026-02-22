@@ -1,0 +1,36 @@
+# ─── Web Framework & Twilio ───────────────────────────────────────────────────
+flask
+twilio
+requests
+python-dotenv
+
+# ─── ASR (Speech-to-Text) ─────────────────────────────────────────────────────
+# NOTE: Install torch FIRST before this file:
+#   pip install torch torchaudio --index-url https://download.pytorch.org/whl/cpu
+transformers
+torch
+torchaudio
+datasets
+
+# ─── LLM (Groq) ───────────────────────────────────────────────────────────────
+groq
+
+# ─── TTS (Text-to-Speech) ─────────────────────────────────────────────────────
+gTTS
+
+# ─── RAG: Embeddings ──────────────────────────────────────────────────────────
+sentence-transformers
+numpy
+
+# ─── Weather ──────────────────────────────────────────────────────────────────
+openmeteo-requests
+requests-cache
+retry-requests
+
+# ─── Database ─────────────────────────────────────────────────────────────────
+sqlalchemy
+psycopg2-binary
+
+# ─── Testing ──────────────────────────────────────────────────────────────────
+pytest
+pytest-mock

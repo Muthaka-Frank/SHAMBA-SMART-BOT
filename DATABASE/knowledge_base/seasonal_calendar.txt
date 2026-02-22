@@ -1,0 +1,144 @@
+KENYAN FARMING SEASONAL CALENDAR
+===================================
+Recommended Planting Dates by Region and Crop
+Source: Kenya Meteorological Department + KALRO Recommendations
+
+---
+
+KENYA'S TWO MAIN RAINY SEASONS
+================================
+
+LONG RAINS (Masika / Mbura ya Njahi):
+- Period: March – June (peak April–May)
+- Reliable in: Central Highlands, Nyanza, Western Kenya, Rift Valley
+- Best for: Maize, beans, potatoes, vegetables, sorghum
+
+SHORT RAINS (Vuli / Mbura ya Mwere):
+- Period: October – December (peak November)
+- More variable and shorter than long rains
+- Best for: Fast-maturing crops: beans, vegetables, tomatoes, sorghum
+
+---
+
+PLANTING CALENDAR BY REGION
+=============================
+
+CENTRAL HIGHLANDS (Kikuyu, Nyeri, Muranga, Kirinyaga, Embu)
+Altitude: 1500–2500m | Good rainfall: 1000–1500mm/year
+
+  Long Rains:
+  - Maize (90-day variety): Plant mid-February to end March → Harvest June–July
+  - Irish Potatoes: Plant February–March on ridges → Harvest May–June
+  - Beans: Plant March–April → Harvest June
+  - Cabbages, Spinach: Plant March → Harvest May–June
+  - Peas (garden): Plant March–April → Harvest May–June
+
+  Short Rains:
+  - Beans: Plant October → Harvest December
+  - Potatoes (second crop): Plant September–October → Harvest December
+  - Tomatoes: Plant in September (transplant); Harvest January
+  - Garlic and onions: Plant October → Harvest February
+
+  Year-round (with irrigation):
+  - Tomatoes, Kale, Spinach, Capsicum
+
+RIFT VALLEY (Nakuru, Naivasha, Kericho, Nandi, Trans-Nzoia)
+Altitude: 1000–2500m | Good rainfall
+
+  Long Rains:
+  - Maize (H614, DK8031): Plant February–March → Harvest July–August
+  - Wheat: Plant March–April → Harvest August–September
+  - Sunflower: Plant April → Harvest August
+  - Beans: Plant March → Harvest June
+
+  Short Rains:
+  - Maize (short-season 60-day): Plant October → Harvest December
+  - Vegetables, Tomatoes: October–November
+
+EASTERN PROVINCE (Machakos, Kitui, Makueni — semi-arid)
+Rainfall: 400–800mm/year | ASAL (Arid and Semi-Arid Land)
+
+  Long Rains (often unreliable):
+  - Sorghum (drought-tolerant): Plant April → Harvest August
+  - Green grams (ndengu): Plant April → Harvest July
+  - Cowpeas: Plant April → Harvest July
+  - Pigeon peas (mbaazi): Plant March → Harvest August
+  - Cassava: Plant April (tolerates drought)
+
+  Short Rains:
+  - Green grams: October → Harvest December
+  - Cowpeas: October → Harvest December
+  - Sweet potatoes: October → December
+
+  IMPORTANT: Use drought-tolerant varieties only. 
+  Plant on contour ridges to conserve moisture. Use mulching heavily.
+
+NYANZA AND WESTERN KENYA (Kisumu, Homa Bay, Vihiga, Bungoma)
+Altitude: 1000–1800m | Bimodal rainfall
+
+  Long Rains:
+  - Maize + Beans (intercrop): Plant March → Harvest July–August
+  - Sorghum: Plant March → Harvest August
+  - Groundnuts: Plant April → Harvest July
+  - Tomatoes: Transplant March → Harvest May–June
+
+  Short Rains:
+  - Beans: October → Harvest December
+  - Sweet potatoes: October → Harvest January
+  - Cassava: October (long-season, harvest in 8–12 months)
+
+COASTAL REGION (Mombasa, Kilifi, Kwale, Lamu)
+Hot and humid | Two rainy seasons
+
+  Long Rains (Masika): March–May
+  - Maize: April → Harvest July
+  - Cassava: April (harvest after 9–12 months)
+  - Cowpeas: April → Harvest June
+
+  Short Rains (Vuli): October–December
+  - Tomatoes: October → Harvest January
+  - Green grams: October → Harvest December
+  - Vegetables: October → Harvest December
+
+---
+
+CROP MATURITY REFERENCE TABLE
+================================
+
+| Crop       | Days to Maturity | Season Suitability     |
+|------------|-----------------|------------------------|
+| Maize (H614)     | 90–120 days | Long rains             |
+| Maize (DK8031)   | 110–120 days | Long rains             |
+| Maize (60-day)   | 60–75 days  | Short rains, ASAL      |
+| Irish Potato     | 75–120 days | Long + short rains     |
+| Beans (climbing) | 70–90 days  | Long rains             |
+| Beans (bush)     | 55–70 days  | Short + long rains     |
+| Tomatoes         | 60–80 days  | Both seasons (irrigated)|
+| Cabbage          | 80–100 days | Long rains             |
+| Spinach          | 30–45 days  | Year-round (irrigated) |
+| Sorghum          | 90–120 days | ASAL, long rains       |
+| Green grams      | 60–75 days  | Short rains, ASAL      |
+| Cowpeas          | 60–90 days  | ASAL, short rains      |
+| Sunflower        | 90–120 days | Long rains, Rift Valley|
+| Groundnuts       | 90–120 days | Long rains, Nyanza     |
+| Onions           | 120–150 days| Both seasons           |
+| Garlic           | 120–180 days| Short rains, highlands |
+| Cassava          | 270–365 days| Year-round, coastal/ASAL|
+
+---
+
+SOIL PREPARATION TIMING
+========================
+- Plough 4–6 weeks BEFORE planting — allow weeds to germinate and die.
+- Second tillage: 2 weeks before planting to remove weed regrowth.
+- Apply compost/manure when ploughing for best incorporation.
+- Apply lime (if needed) at first ploughing — it needs 6–8 weeks to react.
+- Make planting furrows/holes the day before planting.
+
+---
+
+PEST PRESSURE BY SEASON
+========================
+- Long rains: Higher Fall Armyworm pressure. Scout weekly starting 2 weeks after germination.
+- Short rains: Higher Aphid and Whitefly pressure (drier conditions).
+- Post-harvest (storage): Weevils in stored maize — treat with Actellic Super dust.

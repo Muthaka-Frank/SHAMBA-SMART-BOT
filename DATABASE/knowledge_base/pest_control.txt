@@ -1,0 +1,130 @@
+PEST CONTROL GUIDE FOR KENYAN FARMERS
+=======================================
+Integrated Pest Management (IPM) — KALRO / FAO Approach
+Focus: Use cultural, biological, and chemical controls in that priority order.
+
+---
+
+PHILOSOPHY OF INTEGRATED PEST MANAGEMENT (IPM)
+===============================================
+1. PREVENTION first: healthy soil, resistant varieties, proper spacing.
+2. MONITORING: Scout fields at least twice per week. 
+   A pest seen early is much cheaper to treat than an outbreak.
+3. BIOLOGICAL CONTROL: Use natural enemies where possible.
+4. CHEMICAL CONTROL: Only as a last resort, use targeted pesticides.
+
+Economic threshold: Only spray when pest levels are high enough to cause economic damage.
+   - Maize: 1 fall armyworm per 2 plants = action threshold
+   - Beans: 2+ aphid colonies per plant = action threshold
+
+---
+
+MAJOR INSECT PESTS
+==================
+
+1. FALL ARMYWORM (Vamizi / Kamande — Spodoptera frugiperda)
+   Crops affected: Maize, sorghum, millet
+   Signs: Frass (dark excrement) in leaf whorls, ragged holes, stripped cobs.
+   Economic damage: Can destroy 73% of yield if untreated.
+   
+   BIOLOGICAL CONTROL:
+   - Braconid and Ichneumon wasps parasitize eggs and larvae (protect them).
+   - Bt (Bacillus thuringiensis var. kurstaki) spray — safe for humans and bees.
+   - Green lacewings and ground beetles eat young larvae.
+   
+   CULTURAL CONTROL:
+   - Plant early (first rains) to avoid peak moth season.
+   - Apply clean sand + wood ash into plant funnel at early instar stage.
+   - Pheromone traps: 5 traps per hectare to monitor and mass-trap adult males.
+   - Push-pull companion planting: plant Desmodium under maize + Napier grass border.
+   
+   CHEMICAL CONTROL (last resort):
+   - Emamectin Benzoate 1.9EC: 0.4ml/litre — effective on early instars.
+   - Chlorpyrifos 480EC: 2ml/litre — use if outbreak is severe.
+   - Dimethoate 40EC: 2ml/litre — systemic action.
+   Apply in the morning or evening. Wear gloves and mask.
+
+2. APHIDS (Vidung'ata / Tunutu)
+   Crops affected: Beans, tomatoes, maize, vegetables
+   Signs: Clusters of small soft-bodied insects on growing tips/undersides; 
+   sticky honeydew; sooty mould develops; plants curl and wilt.
+   
+   BIOLOGICAL: Ladybirds (ladybugs) and lacewings eat aphids — do not kill them!
+   CULTURAL: Strong water jet to knock aphids off; remove heavily infested shoots.
+   CHEMICAL: Imidacloprid 200SL: 0.5ml/litre; or Dimethoate 40EC: 2ml/litre.
+              Pyrethrin (organic): spray in evening to protect pollinators.
+   
+   Ant management: Ants protect aphids from natural enemies. Apply sticky barrier band 
+   (e.g., Tanglefoot) around plant stems to stop ants from climbing.
+
+3. WHITEFLY (Inzi nyeupe — Bemisia tabaci)
+   Crops affected: Tomatoes, cassava, sweet potato, beans
+   Signs: Tiny white insects under leaves. Leaves yellow and curl. Black sooty mould.
+   Danger: Vector of TYLCV (Tomato Yellow Leaf Curl Virus) and cassava mosaic.
+   
+   CULTURAL: Yellow sticky traps (25 per hectare). Reflective silver mulch repels adults.
+   CHEMICAL: Spiromesifen 240SC: 0.8ml/litre; Buprofezin 25WP: 1.5g/litre (IGR mode).
+              Rotate products every 2 sprays to prevent resistance.
+
+4. RED SPIDER MITE (Utitiri — Tetranychus urticae)
+   Crops affected: Beans, tomatoes, cassava, maize (especially in dry season)
+   Signs: Fine webbing on leaf underside; leaves have yellowish, bronze speckle pattern; 
+   leaves drop. Mites are tiny (0.5mm) red or greenish dots.
+   
+   CULTURAL: Increase field humidity. Water stressed plants are more susceptible.
+   BIOLOGICAL: Phytoseiid predatory mites — encourage by avoiding broad-spectrum pesticides.
+   CHEMICAL: Abamectin 1.8EC: 0.5ml/litre; Spiromesifen 240SC: 0.8ml/litre.
+             NOTE: Many standard insecticides do NOT control mites — use miticide-specific products.
+
+5. THRIPS (Vidung'ata vya pembe)
+   Crops affected: Onions, beans, maize, flowers
+   Signs: Silvery/bronze streaks on leaves; scar tissue on onion leaves; 
+   deformed flowers; vector of TSWV (Tomato Spotted Wilt Virus).
+   
+   CULTURAL: Blue sticky traps (thrips are attracted to blue). Remove weeds.
+   BIOLOGICAL: Predatory mites (Amblyseius cucumeris) eat thrips larvae.
+   CHEMICAL: Fipronil 200SC: 0.5ml/litre; Spinosad 480SC: 0.2ml/litre.
+
+6. CUTWORMS (Wadudu wa kukata — Agrotis spp.)
+   Crops affected: Maize, beans, tomatoes, vegetables (seedling stage)
+   Signs: Young seedlings cut off at soil level overnight. Grubs (fat, curled, grey) 
+   found in soil near cut plants.
+   
+   CULTURAL: Deep ploughing before planting exposes pupae to birds.
+   CHEMICAL: Drench soil with Chlorpyrifos 480EC around seedling base.
+             Or mix bran + molasses + insecticide bait and place near seedlings at dusk.
+
+7. BEAN STEM MAGGOT (Ophiomyia spp.)
+   Crops affected: Beans (especially common bean)
+   Signs: Yellowing and dying of seedlings 10–14 days after emergence. 
+   Black stripe on stem near soil. White maggots inside stem when cut open.
+   
+   TREATMENT: Seed dressing with Thiamethoxam before planting.
+              Apply Imidacloprid 200SL as soil drench at emergence.
+
+---
+
+RODENT CONTROL
+==============
+
+Moles and Field Rats:
+- Signs: Tunnels in soil, gnawed stems and roots, stores of grain found underground.
+- Control:
+  1. Traps: Victor-type snap traps baited with peanut butter or maize grain.
+  2. Zinc Phosphide bait: Place in burrow entrances at dusk (WEAR GLOVES).
+  3. Encourage owls and raptors — do not kill hawks near the farm.
+  4. Peppermint oil on cotton balls placed in burrow openings.
+  5. Plant lemongrass around field boundaries as repellent.
+
+---
+
+PESTICIDE SAFETY REMINDERS
+============================
+- Always wear PPE: gloves, mask, goggles, long-sleeved clothing.
+- Do NOT spray when bees are active (morning). Spray at dusk.
+- Observe Pre-Harvest Interval (PHI) — the waiting period between spraying and harvest.
+  - Example: Cypermethrin PHI on tomatoes = 7 days.
+  - Example: Dimethoate PHI on beans = 14 days.
+- Store chemicals in lockable store away from children, food, water sources.
+- Dispose of empty containers: puncture, rinse 3x, and bury in approved site.
+- Never spray near rivers, ponds, or bee hives.

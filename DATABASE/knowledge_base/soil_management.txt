@@ -1,0 +1,138 @@
+SOIL MANAGEMENT AND FERTILIZER GUIDE FOR KENYAN FARMERS
+=========================================================
+Kenya Agricultural and Livestock Research Organization (KALRO)
+Highlands and Semi-Arid Regions
+
+---
+
+UNDERSTANDING YOUR SOIL
+========================
+
+Soil pH plays a critical role in nutrient availability. Test your soil before planting.
+
+pH Scale for Farming:
+- Below 5.5 : Very acidic — most nutrients are locked. Apply lime.
+- 5.5 – 6.0 : Slightly acidic — suitable for tea, coffee, Irish potatoes.
+- 6.0 – 6.8 : Ideal range — suitable for maize, beans, vegetables.
+- 6.8 – 7.0 : Neutral — suitable for most crops.
+- Above 7.5 : Too alkaline — apply sulphur to lower pH.
+
+SOIL INDICATORS FARMERS CAN OBSERVE:
+- Dark soil with good crumb structure = high organic matter (good)
+- Reddish, compacted soil = low organic matter, likely acidic
+- Pale yellow soil with poor structure = leached, likely needs lime + compost
+- Waterlogged, sticky clay soil = poor drainage, needs raised beds
+
+---
+
+LIMING (CORRECTING ACIDIC SOILS)
+==================================
+
+When to apply: If crops show yellowing (chlorosis) despite fertilizer, or maize tassels 
+die young, the soil may be too acidic.
+
+Agricultural Lime (Calcium Carbonate, CaCO3):
+- Rate: 2 tonnes/acre for pH below 5.5
+- Apply 2–3 months before planting so lime has time to react
+- Broadcast evenly and incorporate by ploughing
+
+Dolomite Lime (adds both Calcium and Magnesium):
+- Use if soil is deficient in both Ca and Mg
+- Rate: 1.5–2 tonnes/acre
+
+DO NOT apply lime and fertilizer at the same time — wait at least 2 weeks between applications.
+
+---
+
+BASAL FERTILIZERS (APPLIED AT PLANTING)
+========================================
+
+DAP (Di-Ammonium Phosphate — 18-46-0):
+- Promotes root development and early plant establishment.
+- Apply in the planting furrow or hole at planting: 50kg per acre
+- Mix lightly with soil before placing the seed on top to avoid burning.
+- Works best in soils with pH 6.0–6.5.
+
+CAN (Calcium Ammonium Nitrate — 26N):
+- Fast-release nitrogen source. Use as top dressing.
+- Do NOT mix with DAP in the hole — apply separately.
+- Timing: 4–6 weeks after germination (when plant is knee-high for maize)
+- Rate: 50kg per acre. Apply in a ring around the base or in a furrow beside the row.
+
+NPK 17:17:17 (All-purpose fertilizer):
+- Use when a balanced supply of N, P, and K is needed.
+- Suitable for vegetable gardens and tomatoes.
+- Rate: 50–75kg per acre at planting.
+
+Urea (46-0-0):
+- High nitrogen, for leafy growth.
+- Use as second top-dressing 6–8 weeks after CAN.
+- Rate: 25–30kg per acre. Apply when soil is moist and incorporate.
+- DANGER: Do not apply urea in dry conditions — it volatilizes (evaporates) and is wasted.
+
+---
+
+ORGANIC FERTILIZERS AND SOIL AMENDMENTS
+========================================
+
+Farmyard Manure (FYM):
+- Best type: Well-composted cattle or chicken manure.
+- Fresh manure can burn roots — compost for at least 3 months.
+- Rate: 5–10 tonnes per acre, incorporated at planting.
+- Benefits: Improves water retention, adds micronutrients, feeds soil organisms.
+
+Compost:
+- Make from crop residues, kitchen waste, and manure.
+- Layer: green (nitrogen-rich) + brown (carbon-rich) materials.
+- Wet and turn every 2–3 weeks. Ready in 2–3 months.
+- Apply at 3–5 tonnes per acre.
+
+Green Manure:
+- Plant legumes (tithonia, dolichos, crotalaria) between crop seasons.
+- Chop and incorporate into the soil when flowering.
+- Fixes atmospheric nitrogen, improves soil structure.
+
+Vermicompost (Worm Castings):
+- Very concentrated. Apply at 0.5 tonne per acre.
+- Excellent for vegetable nurseries.
+
+---
+
+MICRONUTRIENT DEFICIENCIES
+============================
+
+Zinc Deficiency:
+- Symptoms: White/pale striping on young maize leaves, stunted growth.
+- Treatment: Foliar spray with Zinc Sulphate (ZnSO4) — 2g/litre.
+
+Iron Deficiency:
+- Symptoms: Yellowing of young leaves while veins remain green (interveinal chlorosis).
+- Treatment: Foliar spray with FeSO4 (iron sulphate) — 1g/litre.
+
+Boron Deficiency:
+- Symptoms: Distorted, thickened leaves; poor fruit set in tomatoes and beans.
+- Treatment: Dissolve 0.5g Borax in 1 litre warm water, dilute further and spray.
+
+Magnesium Deficiency:
+- Symptoms: Yellowing between leaf veins on older leaves (lower leaves first).
+- Treatment: Spray with Epsom Salt (MgSO4) — 5g/litre.
+
+---
+
+WATER MANAGEMENT
+================
+
+Mulching:
+- Apply 10–15cm of dry grass, maize stalks, or straw around plants.
+- Conserves soil moisture during dry spells.
+- Suppresses weeds.
+- Prevents soil splash that spreads fungal diseases.
+
+Irrigation Timing:
+- Water early morning to reduce evaporation and fungal disease risk.
+- Avoid afternoon irrigation in humid areas.
+- For tomatoes: drip irrigation is ideal to keep foliage dry.
+
+Rainwater Harvesting:
+- Dig half-moon catchments (zai pits) on sloped land.
+- Plant trees on contour to slow water runoff.
